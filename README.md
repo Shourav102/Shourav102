@@ -3,19 +3,6 @@
 
 I'm an aspiring software developer who believes great code starts with understanding people. I build meaningful applications, learn by doing, and never stop improving.
 
-```python
-class Shourav:
-    def __init__(self):
-        self.location = "Pokhara, Nepal 🇳🇵"
-        self.focus = ["Web Development", "Desktop Applications", "UI/UX Design"]
-        self.learning = ["React.js", "Django", "System Design"]
-    
-    def say_hi(self):
-        print("Building code that makes a difference")
-```
-
----
-
 ## 🔧 Tech Stack
 
 ### Languages
