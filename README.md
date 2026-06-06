@@ -1,25 +1,20 @@
-# 👋 Hi there, I'm Shourav
+# From Pokhara, Nepal → Building for the world
 
-## 🏔️ From Pokhara, Nepal → Building for the world
-
-I'm an **aspiring software developer** who believes great code starts with understanding people. I build meaningful applications, learn by doing, and never stop improving.
+I'm an aspiring software developer who believes great code starts with understanding people. I build meaningful applications, learn by doing, and never stop improving.
 
 ---
-
-## 🚀 What I'm Working On
 
 ```python
 class Shourav:
     def __init__(self):
         self.location = "Pokhara, Nepal 🇳🇵"
         self.focus = ["Web Development", "Desktop Applications", "UI/UX Design"]
-        self.current_project = "Password Safe - AES-256 encrypted password manager"
         self.learning = ["React.js", "Django", "System Design"]
     
     def say_hi(self):
-        print("Building code that makes a difference ☕")
+        print("Building code that makes a difference")
 
-🛠️ Tech Stack
+🔧 Tech Stack
 Languages
 https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
@@ -36,3 +31,19 @@ https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoCol
 
 Design
 https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+
+📈 GitHub Stats
+https://github-readme-stats.vercel.app/api?username=Shourav102&show_icons=true&theme=radical
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=Shourav102&layout=compact&theme=radical
+
+🤝 Let's Connect
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+
+<div align="center">
+"Building meaningful software, one commit at a time."
+
+⭐️ From Shourav
+
+</div> ```
